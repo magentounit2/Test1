@@ -24,3 +24,5 @@ The following search returns items that contain the word yoga or pants. The Cata
         }
       }
 }
+
+This is simple demo for Graphql in Magento 2.
