@@ -1,0 +1,19 @@
+Hi @abhaykhatariya
+You may submit a Pull Request to this repository with the fix. Please take a look at the "Contributing" section of the Magento Developer Documentation to learn more. Feel free to reach out me or anyone on the team via Community Engineering slack workspace if you need any help.
+
+ @Dharmeshvaja91 Dharmeshvaja91 self-assigned this 5 hours ago
+@magento-engcom-team
+  Contributor
+magento-engcom-team commented 5 hours ago
+Hi @Dharmeshvaja91. Thank you for working on this issue.
+Looks like this issue is already verified and confirmed. But if your want to validate it one more time, please, go though the following instruction:
+
+  1. Add/Edit Component: XXXXX label(s) to the ticket, indicating the components it may be related to.
+
+  2. Verify that the issue is reproducible on 2.3-develop branch
+
+Details
+  3. Verify that the issue is reproducible on 2.2-develop branch.
+
+Details
+  4. If the issue is not relevant or is not reproducible any more, feel free to close it.
